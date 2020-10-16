@@ -1,1 +1,1 @@
-用于 gcr.io/ml-pipeline/api-server:dummy 镜像的自动构建
+用于 gcr.io/ml-pipeline/api-server:1.0.0 镜像的自动构建
