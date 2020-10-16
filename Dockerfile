@@ -1,1 +1,1 @@
-FROM gcr.io/ml-pipeline/api-server:dummy
+FROM gcr.io/ml-pipeline/api-server:1.0.0
